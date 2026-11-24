@@ -1,0 +1,25 @@
+﻿# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset
+data/
+
+# Environment variables
+.env
+
+# Gradio temporary files
+.gradio/
+flagged/
+
+# System files
+.DS_Store
+Thumbs.db
